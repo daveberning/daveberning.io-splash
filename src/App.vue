@@ -9,6 +9,7 @@
 
   export default Vue.extend({
     mounted() {
+      // @ts-ignore
       VANTA.NET({
         el: '#app',
         color: 0x0f6f88,
