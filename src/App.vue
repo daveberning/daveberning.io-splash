@@ -18,3 +18,13 @@
     }
   })
 </script>
+
+<style>
+  * {
+    box-sizing: border-box;
+  }
+
+  #app {
+    padding: 2rem;
+  }
+</style>
